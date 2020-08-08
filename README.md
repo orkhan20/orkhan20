@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+<img src="https://drive.google.com/file/d/1kQA_5aaJqZ6mk8VldHqWeaMRs34Xc_KI/view?usp=sharing" width="30px">
 
 
 
