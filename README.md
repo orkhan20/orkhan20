@@ -1,17 +1,10 @@
-```html
 
-    <div  style="background-color:black; width:70%; margin:auto; color:blanchedalmond">
-        <center><h1>Talk is cheap. Show me the code.</h1></center>
-        <h3 style="padding-left:700px">Linus Torvalds</h3>
-    </div>
-
-```
 
 
 
 <img src="https://drive.google.com/thumbnail?id=1kQA_5aaJqZ6mk8VldHqWeaMRs34Xc_KI" width="150px">
 
-Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hi, I am Orxan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
