@@ -1,4 +1,16 @@
-<img src="https://drive.google.com/thumbnail?id=1yDmROPdwvH6tc9D-2td2ftL68vmWxVKL">
+<html>
+<head>
+   
+    <title>Page Title</title>
+    
+</head>
+<body>
+    <div  style="background-color:black; width:70%; margin:auto; color:blanchedalmond">
+        <center><h1>Talk is cheap. Show me the code.</h1></center>
+        <h3 style="padding-left:700px">Linus Torvalds</h3>
+    </div>
+</body>
+</html>
 
 
 
