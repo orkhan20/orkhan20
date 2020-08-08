@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/thumbnail?id=1sbsxD100af106UBdPb-c7D8v84TdeDHi" width="100%" height="200px">
+<img src="https://drive.google.com/thumbnail?id=1yDmROPdwvH6tc9D-2td2ftL68vmWxVKL" width="100%">
 
 
 
