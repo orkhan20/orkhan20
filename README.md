@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/thumbnail?id=1kQA_5aaJqZ6mk8VldHqWeaMRs34Xc_KI" width="30px">
+<img src="https://drive.google.com/thumbnail?id=1kQA_5aaJqZ6mk8VldHqWeaMRs34Xc_KI" width="150px">
 
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
